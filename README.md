@@ -1,5 +1,3 @@
-# carsoncarrasco.github.io
-
 # ConnectIn Roles
 ## Ceo and Co-founder
 Carson Carrasco
