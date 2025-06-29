@@ -16,6 +16,6 @@ Noah Trudel
 ### Accounting Intern
 Tyreeke Ronaldo Ronnie Ried
 
-theme:remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
